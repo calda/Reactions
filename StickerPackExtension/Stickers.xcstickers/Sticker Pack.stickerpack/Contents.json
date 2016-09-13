@@ -1,0 +1,47 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Like.sticker"
+    },
+    {
+      "filename" : "Love.sticker"
+    },
+    {
+      "filename" : "Haha.sticker"
+    },
+    {
+      "filename" : "Wow.sticker"
+    },
+    {
+      "filename" : "Sad.sticker"
+    },
+    {
+      "filename" : "Angry.sticker"
+    },
+    {
+      "filename" : "Like-1.sticker"
+    },
+    {
+      "filename" : "Love-1.sticker"
+    },
+    {
+      "filename" : "Haha-1.sticker"
+    },
+    {
+      "filename" : "Wow-1.sticker"
+    },
+    {
+      "filename" : "Sad-1.sticker"
+    },
+    {
+      "filename" : "Angry-1.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
